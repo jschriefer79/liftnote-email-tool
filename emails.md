@@ -16,9 +16,10 @@ A liftnote is a SHORT teaser email — typically 50 to 200 words. Its only goal 
 6. **Conversational tone.** Write like a personal note from a real person — not a marketing department.
 7. **Personal greeting.** Always open with "Dear Reader," or "Dear [Name]," — like a letter.
 8. **Sign off as a real person.** Always close with a name and title (e.g., "Sincerely, Doug Hill, Publisher, Choose Yourself Media").
-9. **Include a P.S. when it adds power.** A P.S. is a second hook or urgency reinforcement — not a repeat of the body.
-10. **Multiple CTAs.** Include 2-3 bold "click here" style links woven naturally through the email.
-11. **Subject line is everything.** Write a subject line that would make someone stop scrolling and open immediately.
+9. **The signer NEVER refers to themselves in the third person.** If Jeff Hays is signing the email, the body must use "I" and "my" — never "Jeff Hays's" or "he." The email is written FROM that person. Wrong: "Jeff Hays's wife had cancer." Right: "My wife had cancer."
+10. **Include a P.S. when it adds power.** A P.S. is a second hook or urgency reinforcement — not a repeat of the body.
+11. **Multiple CTAs.** Include 2-3 bold "click here" style links woven naturally through the email.
+12. **Subject line is everything.** Write a subject line that would make someone stop scrolling and open immediately.
 
 ## The 7 liftnote angles
 
